@@ -14,12 +14,12 @@ and functionality for drawing graphics.
 
  ## Application Details 
 
-* The window and drawable canvas is 600x400 pixels wide 
+1. The window and drawable canvas is 600x400 pixels wide 
 
 
-* Pressing the number keys 1 through 8 allows you to draw in a different color.
- + Black
- + White
+2. Pressing the number keys 1 through 8 allows you to draw in a different color.
+  + Black
+  + White
  + Red
  + Green
  + Blue
@@ -27,12 +27,12 @@ and functionality for drawing graphics.
  + Magenta
  + Cyan
 
-* Pressing the space key will clear the canvas to the last color you have seleted.
+3. Pressing the space key will clear the canvas to the last color you have seleted.
 
-* When a the mouse is pressed and a user left-clicks (i.e. on the pressed event, not 
+4. When a the mouse is pressed and a user left-clicks (i.e. on the pressed event, not 
 released) a pixel color will change wherever the mouse is located. This should allow me to drag and draw over the canvas like a pencil on a piece of paper.
 
-* Pressing the escape key should terminate the program.
+5. Pressing the escape key should terminate the program.
  
  
  
