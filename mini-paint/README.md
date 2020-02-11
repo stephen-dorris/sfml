@@ -16,16 +16,16 @@ and functionality for drawing graphics.
 
 * The window and drawable canvas is 600x400 pixels wide 
 
-* Pressing the number keys 1 through 8 allows you to draw in a different color.
-Use the Static Public Attributes of the sf::Color class such that:
-  ..1 = Black
-  ..2 = White
-  ..3 = Red
-  ..4 = Green
-  ..5 = Blue
-  ..6 = Yellow
-  ..7 = Magenta
-  ..8 = Cyan
+
+1. Pressing the number keys 1 through 8 allows you to draw in a different color.
+⋅⋅* Blac
+⋅⋅*  White
+⋅⋅* Red
+⋅⋅* Green
+⋅⋅* Blue
+⋅⋅* Yellow
+⋅⋅* Magenta
+⋅⋅* Cyan
 
 * Pressing the space key will clear the canvas to the last color you have seleted.
 
