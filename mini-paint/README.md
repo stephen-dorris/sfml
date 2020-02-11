@@ -18,7 +18,7 @@ and functionality for drawing graphics.
 
 
 2. Pressing the number keys 1 through 8 allows you to draw in a different color.
-  + Black
+      - Black
   + White
  + Red
  + Green
