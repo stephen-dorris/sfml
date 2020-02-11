@@ -18,14 +18,14 @@ and functionality for drawing graphics.
 
 
 * Pressing the number keys 1 through 8 allows you to draw in a different color.
-⋅⋅*Black
-⋅⋅*White
-⋅⋅*Red
-⋅⋅*Green
-⋅⋅*Blue
-⋅⋅*Yellow
-⋅⋅*Magenta
-⋅⋅*Cyan
+ + Black
+ + White
+ + Red
+ + Green
+ + Blue
+ + Yellow
+ + Magenta
+ + Cyan
 
 * Pressing the space key will clear the canvas to the last color you have seleted.
 
