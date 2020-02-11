@@ -17,7 +17,7 @@ and functionality for drawing graphics.
 1. The window and drawable canvas is 600x400 pixels wide 
 
 
-2. Pressing the number keys 1 through 8 allows you to draw in a different color.
+2. Pressing and holding the number keys 1 through 8 allows you to draw in a different color.
       - Black
       - White
       - Red
