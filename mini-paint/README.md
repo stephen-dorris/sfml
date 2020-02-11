@@ -2,7 +2,7 @@
 
 This is a basic drawing application that uses the SFML library to change pixels to a specific color.
 
-<img align="center" width="300px" src="./minipaint_example.png">
+<img align="center" width="600px" src="./minipaint_example.png">
 
 ## About SFML
 SFML is the (S)imple (F)ast (M)edia (L)ibrary
